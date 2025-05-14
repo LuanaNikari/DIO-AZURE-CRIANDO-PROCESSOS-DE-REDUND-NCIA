@@ -1,0 +1,9 @@
+{
+	"name": "adf-dio-Luana",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e1d5d20-7b91-43e9-be6d-f749df2776ff",
+		"tenantId": "f310b526-e195-4805-a55e-67e28f2fefdb"
+	}
+}
